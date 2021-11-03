@@ -21,5 +21,5 @@ the public key must be located in `~/.ssh/id_rsa.pub`
 run the script file with the command:
 
 ```sh
-bash script.sh
+bash src/script.sh
 ```
