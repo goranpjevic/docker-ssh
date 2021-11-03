@@ -18,7 +18,7 @@ ssh-keygen -t RSA
 
 the public key must be located in `~/.ssh/id_rsa.pub`
 
-run the script with the command:
+run the script file with the command:
 
 ```sh
 bash script.sh
